@@ -1,0 +1,6 @@
+oss:
+  type: ${oss.type}
+  endpoint: ${oss.endpoint}
+  access-key: ${oss.access-key}
+  secret-key: ${oss.secret-key-key}
+  bucket-name: ${oss.bucket-name}
